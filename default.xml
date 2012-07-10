@@ -39,15 +39,15 @@
     <project path="device/generic/goldfish" name="device/generic/goldfish" remote="aosp" revision="ics-plus-aosp" />
     <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" remote="aosp" revision="ics-plus-aosp" />
     <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" remote="aosp" revision="ics-plus-aosp" />
-    <project path="external/aac" name="platform/external/aac" remote="aosp" revision="ics-plus-aosp" />
-    <project path="external/android-clat" name="platform/external/android-clat" remote="aosp" revision="ics-plus-aosp" />
+    <project path="external/aac" name="platform/external/aac" remote="aosp" revision="master" />
+    <project path="external/android-clat" name="platform/external/android-clat" remote="aosp" revision="master" />
     <project path="external/android-mock" name="platform/external/android-mock" remote="aosp" revision="ics-plus-aosp" />
     <project path="external/antlr" name="platform/external/antlr" remote="aosp" revision="ics-plus-aosp" />
-    <project path="external/ant-glob" name="platform/external/ant-glob" remote="aosp" revision="ics-plus-aosp" />
+    <project path="external/ant-glob" name="platform/external/ant-glob" remote="aosp" revision="master" />
     <project path="external/apache-harmony" name="platform/external/apache-harmony" remote="aosp" revision="ics-plus-aosp" />
-    <project path="external/apache-qp" name="platform/external/apache-qp" remote="aosp" revision="ics-plus-aosp" />
-    <project path="external/apache-http" name="platform/external/apache-http" remote="aosp" revision="ics-plus-aosp" />
-    <project path="external/apache-xml" name="platform/external/apache-xml" remote="aosp" revision="ics-plus-aosp" />
+    <project path="external/apache-qp" name="platform/external/apache-qp" remote="aosp" revision="master" />
+    <project path="external/apache-http" name="platform/external/apache-http" remote="aosp" revision="master" />
+    <project path="external/apache-xml" name="platform/external/apache-xml" remote="aosp" revision="master" />
     <project path="external/astl" name="platform/external/astl" remote="aosp" revision="ics-plus-aosp" />
     <project path="external/bash" name="CyanogenMod/android_external_bash" />
     <project path="external/bison" name="platform/external/bison" remote="aosp" revision="ics-plus-aosp" />
@@ -57,14 +57,14 @@
     <project path="external/bsdiff" name="platform/external/bsdiff" remote="aosp" revision="ics-plus-aosp" />
     <project path="external/bzip2" name="platform/external/bzip2" remote="aosp" revision="ics-plus-aosp" />
     <project path="external/collada" name="platform/external/collada" remote="aosp" revision="ics-plus-aosp" />
-    <project path="external/checkpolicy" name="platform/external/checkpolicy" remote="aosp" revision="ics-plus-aosp" />
+    <project path="external/checkpolicy" name="platform/external/checkpolicy" remote="aosp" revision="master" />
     <project path="external/dbus" name="platform/external/dbus" remote="aosp" revision="ics-plus-aosp" />
     <project path="external/dhcpcd" name="platform/external/dhcpcd" remote="aosp" revision="ics-plus-aosp" />
     <project path="external/dnsmasq" name="CyanogenMod/android_external_dnsmasq" />
     <project path="external/doclava" name="platform/external/doclava" remote="aosp" revision="ics-plus-aosp" />
     <project path="external/dropbear" name="platform/external/dropbear" remote="aosp" revision="ics-plus-aosp" />
     <project path="external/easymock" name="platform/external/easymock" remote="aosp" revision="ics-plus-aosp" />
-    <project path="external/eclipse-windowbuilder" name="platform/external/eclipse-windowbuilder" remote="aosp" revision="ics-plus-aosp" />
+    <project path="external/eclipse-windowbuilder" name="platform/external/eclipse-windowbuilder" remote="aosp" revision="master" />
     <project path="external/elfutils" name="platform/external/elfutils" remote="aosp" revision="ics-plus-aosp" />
     <project path="external/embunit" name="CyanogenMod/android_external_embunit" />
     <project path="external/emma" name="platform/external/emma" remote="aosp" revision="ics-plus-aosp" />
@@ -74,7 +74,7 @@
     <project path="external/fdlibm" name="platform/external/fdlibm" remote="aosp" revision="ics-plus-aosp" />
     <project path="external/flac" name="platform/external/flac" remote="aosp" revision="ics-plus-aosp" />
     <project path="external/fsck_msdos" name="platform/external/fsck_msdos" remote="aosp" revision="ics-plus-aosp" />
-    <project path="external/gcc-demangle" name="platform/external/gcc-demangle" remote="aosp" revision="ics-plus-aosp" />
+    <project path="external/gcc-demangle" name="platform/external/gcc-demangle" remote="aosp" revision="master" />
     <project path="external/genext2fs" name="platform/external/genext2fs" remote="aosp" revision="ics-plus-aosp" />
     <project path="external/giflib" name="platform/external/giflib" remote="aosp" revision="ics-plus-aosp" />
     <project path="external/google-diff-match-patch" name="platform/external/google-diff-match-patch" remote="aosp" revision="ics-plus-aosp" />
@@ -100,10 +100,10 @@
     <project path="external/libnfc-nxp" name="platform/external/libnfc-nxp" remote="aosp" revision="ics-plus-aosp" />
     <project path="external/libnl-headers" name="platform/external/libnl-headers" remote="aosp" revision="ics-plus-aosp" />
     <project path="external/libpcap" name="CyanogenMod/android_external_libpcap" />
-    <project path="external/libselinux" name="platform/external/libselinux" remote="aosp" revision="ics-plus-aosp" />
-    <project path="external/libsepol" name="platform/external/libsepol" remote="aosp" revision="ics-plus-aosp" />
-    <project path="external/libusb" name="platform/external/libusb" remote="aosp" revision="ics-plus-aosp" />
-    <project path="external/libusb-compat" name="platform/external/libusb-compat" remote="aosp" revision="ics-plus-aosp" />
+    <project path="external/libselinux" name="platform/external/libselinux" remote="aosp" revision="master" />
+    <project path="external/libsepol" name="platform/external/libsepol" remote="aosp" revision="master" />
+    <project path="external/libusb" name="platform/external/libusb" remote="aosp" revision="master" />
+    <project path="external/libusb-compat" name="platform/external/libusb-compat" remote="aosp" revision="master" />
     <project path="external/libvpx" name="platform/external/libvpx" remote="aosp" revision="ics-plus-aosp" />
     <project path="external/libyuv" name="platform/external/libyuv" remote="aosp" revision="ics-plus-aosp" />
     <project path="external/libxslt" name="platform/external/libxslt" remote="aosp" revision="ics-plus-aosp" />
@@ -134,7 +134,7 @@
     <project path="external/replicaisland" name="platform/external/replicaisland" remote="aosp" revision="ics-plus-aosp" />
     <project path="external/rsync" name="CyanogenMod/android_external_rsync" revision="master" />
     <project path="external/safe-iop" name="platform/external/safe-iop" remote="aosp" revision="ics-plus-aosp" />
-    <project path="external/sepolicy" name="platform/external/sepolicy" remote="aosp" revision="ics-plus-aosp" />
+    <project path="external/sepolicy" name="platform/external/sepolicy" remote="aosp" revision="master" />
     <project path="external/sonivox" name="CyanogenMod/android_external_sonivox" />
     <project path="external/speex" name="platform/external/speex"  remote="aosp" revision="ics-plus-aosp"/>
     <project path="external/srtp" name="platform/external/srtp" remote="aosp" revision="ics-plus-aosp" />
@@ -154,7 +154,7 @@
     <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" />
     <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" remote="aosp" revision="ics-plus-aosp" />
     <project path="frameworks/opt/calendar" name="platform/frameworks/opt/calendar" remote="aosp" revision="ics-plus-aosp" />
-    <project path="frameworks/opt/carddav" name="platform/frameworks/opt/carddav" remote="aosp" revision="ics-plus-aosp" />
+    <project path="frameworks/opt/carddav" name="platform/frameworks/opt/carddav" remote="aosp" revision="master" />
     <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" remote="aosp" revision="ics-plus-aosp" />
     <project path="frameworks/opt/inputmethodcommon" name="platform/frameworks/opt/inputmethodcommon" remote="aosp" revision="ics-plus-aosp" />
     <project path="frameworks/opt/mailcommon" name="platform/frameworks/opt/mailcommon" remote="aosp" revision="ics-plus-aosp" />
@@ -182,7 +182,7 @@
     <project path="packages/apps/Protips" name="CyanogenMod/android_packages_apps_Protips" />
     <project path="packages/apps/Provision" name="CyanogenMod/android_packages_apps_Provision" />
     <project path="packages/apps/QuickSearchBox" name="CyanogenMod/android_packages_apps_QuickSearchBox" />
-    <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" remote="aosp" revision="ics-plus-aosp" />
+    <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" remote="aosp" revision="master" />
     <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" remote="aosp" revision="ics-plus-aosp" />
     <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" remote="aosp" revision="ics-plus-aosp" />
     <project path="packages/apps/Stk" name="platform/packages/apps/Stk" remote="aosp" revision="ics-plus-aosp" />
@@ -206,17 +206,17 @@
     <project path="packages/wallpapers/NoiseField" name="platform/packages/wallpapers/NoiseField" remote="aosp" revision="ics-plus-aosp" />
     <project path="packages/wallpapers/PhaseBeam" name="platform/packages/wallpapers/PhaseBeam" remote="aosp" revision="ics-plus-aosp" />
 
-    <project path="prebuilts/qemu-kernel" name="platform/prebuilts/qemu-kernel" remote="aosp" revision="ics-plus-aosp" />
-    <project path="prebuilts/tools" name="platform/prebuilts/tools" remote="aosp" revision="ics-plus-aosp" />
+    <project path="prebuilts/qemu-kernel" name="platform/prebuilts/qemu-kernel" remote="aosp" revision="master" />
+    <project path="prebuilts/tools" name="platform/prebuilts/tools" remote="aosp" revision="master" />
 
-  <project path="prebuilts/eclipse" name="platform/prebuilts/eclipse" remote="aosp" revision="ics-plus-aosp" />
-  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6" name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6" remote="aosp" revision="ics-plus-aosp" />
-  <project path="prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6" name="platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6" remote="aosp" revision="ics-plus-aosp" />
-  <project path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6" name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6" remote="aosp" revision="ics-plus-aosp" />
-  <project path="prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.4.3" name="platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.4.3" remote="aosp" revision="ics-plus-aosp" />
-  <project path="prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.6" name="platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.6" remote="aosp" revision="ics-plus-aosp" />
-  <project path="prebuilts/gcc/linux-x86/x86/i686-android-linux-4.4.3" name="platform/prebuilts/gcc/linux-x86/x86/i686-android-linux-4.4.3" remote="aosp" revision="ics-plus-aosp" />
-  <project path="prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6" name="platform/prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6" remote="aosp" revision="ics-plus-aosp" />
+  <project path="prebuilts/eclipse" name="platform/prebuilts/eclipse" remote="aosp" revision="master" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6" name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6" remote="aosp" revision="master" />
+  <project path="prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6" name="platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6" remote="aosp" revision="master" />
+  <project path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6" name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6" remote="aosp" revision="master" />
+  <project path="prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.4.3" name="platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.4.3" remote="aosp" revision="master" />
+  <project path="prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.6" name="platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.6" remote="aosp" revision="master" />
+  <project path="prebuilts/gcc/linux-x86/x86/i686-android-linux-4.4.3" name="platform/prebuilts/gcc/linux-x86/x86/i686-android-linux-4.4.3" remote="aosp" revision="master" />
+  <project path="prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6" name="platform/prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6" remote="aosp" revision="master" />
   <project path="prebuilts/misc" name="platform/prebuilts/misc" remote="aosp" revision="ics-plus-aosp" />
 
     <project path="vendor/cm" name="CyanogenMod/android_vendor_cm" />
