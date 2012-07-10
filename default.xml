@@ -64,7 +64,7 @@
     <project path="external/doclava" name="platform/external/doclava" remote="aosp" revision="refs/tags/android-4.0.4_r1.2" />
     <project path="external/dropbear" name="platform/external/dropbear" remote="aosp" revision="refs/tags/android-4.0.4_r1.2" />
     <project path="external/easymock" name="platform/external/easymock" remote="aosp" revision="refs/tags/android-4.0.4_r1.2" />
-    <project path="external/eclipse-windowbuilder" name="platform/external/eclipse-windowbuilder" remote="aosp" revision="refs/tags/android-4.0.4_r1.2" />
+    <project path="external/eclipse-windowbuilder" name="platform/external/eclipse-windowbuilder" remote="aosp" revision="master" />
     <project path="external/elfutils" name="platform/external/elfutils" remote="aosp" revision="refs/tags/android-4.0.4_r1.2" />
     <project path="external/embunit" name="CyanogenMod/android_external_embunit" />
     <project path="external/emma" name="platform/external/emma" remote="aosp" revision="refs/tags/android-4.0.4_r1.2" />
