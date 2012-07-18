@@ -34,7 +34,6 @@
   <project path="abi/cpp" name="platform/abi/cpp" remote="aosp" revision="ics-plus-aosp" />
     <project path="bootable/bootloader/legacy" name="CyanogenMod/android_bootable_bootloader_legacy" />
     <project path="bootable/diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" />
-    <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" />
     <project path="device/common" name="device/common" remote="aosp" revision="ics-plus-aosp" />
     <project path="device/generic/goldfish" name="device/generic/goldfish" remote="aosp" revision="ics-plus-aosp" />
     <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" remote="aosp" revision="ics-plus-aosp" />
@@ -237,7 +236,7 @@
   <project path="vendor/icecold" name="platform_vendor_icecold" remote="icecold" revision="master"/>
 
      
-
+  <project path="bootable/recovery" name="android_bootable_recovery" remote="icecold" revision="ics" />
   <project path="bionic" name="android_bionic" remote="icecold" revision="ics" />
   <project path="dalvik" name="android_dalvik" remote="icecold" revision="ics" />
   <project path="development" name="android_development" remote="icecold" revision="ics" />
