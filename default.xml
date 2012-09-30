@@ -243,7 +243,7 @@
   <project path="external/bluetooth/glib" name="android_external_bluetooth_glib" remote="icecold" revision="ics" />
   <project path="external/busybox" name="android_external_busybox" remote="icecold" revision="ics" />
   <project path="external/clang" name="platform_external_clang" remote="icecold" revision="ics-devel" />
-  <project name="aospX/platform_external_dnsmasq" path="external/dnsmasq" remote="icecold" revision="ics-devel"/>
+  <project path="external/dnsmasq" name="platform_external_dnsmasq" remote="icecold" revision="ics-devel"/>
   <project path="external/e2fsprogs" name="platform_external_e2fsprogs" remote="icecold" revision="ics-devel" />
   <project path="external/freetype" name="platform_external_freetype" remote="icecold" revision="master" />
   <project path="external/gtest" name="platform_external_gtest" remote="icecold" revision="ics-devel" />
