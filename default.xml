@@ -162,7 +162,6 @@
     <project path="ndk" name="platform/ndk" remote="aosp" revision="ics-plus-aosp"/>
     <project path="packages/apps/Apollo" name="CyanogenMod/android_packages_apps_Apollo" revision="ics"/>
     <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" remote="aosp" revision="ics-plus-aosp" />
-    <project path="packages/apps/Calculator" name="platform/packages/apps/Calculator" remote="aosp" revision="ics-plus-aosp" />
     <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" remote="aosp" revision="ics-plus-aosp" />
     <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" remote="aosp" revision="ics-plus-aosp" />
     <project path="packages/apps/CertInstaller" name="CyanogenMod/android_packages_apps_CertInstaller" revision="ics"/>
@@ -287,6 +286,7 @@
   <project path="packages/apps/DeskClock" name="packages_apps_DeskClock" remote="icecold" revision="ics" />
   <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="icecold" revision="ics" />
   <project path="packages/apps/Browser" name="platform_packages_apps_Browser" remote="icecold" revision="ics"/>
+    <project path="packages/apps/Calculator" name="platform_packages_apps_Calculator" remote="icecold" revision="ics-devel" />
   <project path="packages/apps/Email" name="packages_apps_Email" remote="icecold" revision="ics"/>
   <project path="packages/apps/FileManager" name="platform_packages_apps_FileManager" remote="icecold" revision="ics-devel"/>
   <project path="packages/apps/GooManager" name="solarnz/GooManager_prebuilt" remote="github" revision="master" />
